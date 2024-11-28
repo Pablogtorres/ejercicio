@@ -1,3 +1,3 @@
 # ejercicio
 ejercicio de c
-hola soy #pablo #gomez #torres
+#hola soy pablo gomez torres
